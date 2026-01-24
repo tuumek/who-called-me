@@ -8,7 +8,3 @@ contract WhoCalledMe {
         lastCaller = msg.sender;
     }
 }
- 
- 
- 
- 
